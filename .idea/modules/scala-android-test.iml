@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="SBT:: scala-compiler-bundle:2.11.1" />
+        <option name="compilerOptions" value="-bootclasspath D:\android-sdk\platforms\android-19\android.jar -javabootclasspath D:\android-sdk\platforms\android-19\android.jar -feature" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../../scala-android-test/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../../scala-android-test/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../../scala-android-test/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../../scala-android-test/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../../scala-android-test/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../../scala-android-test/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../../scala-android-test/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../bin/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.11/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/src_managed/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../tests/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.11/resource_managed/test" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.1" level="project" />
+  </component>
+</module>
+
